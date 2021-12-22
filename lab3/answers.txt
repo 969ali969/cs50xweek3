@@ -1,0 +1,17 @@
+sort1 uses: Bubble sort
+
+How do you know?: Bubble sort has the fastest omega compare to it BigO and when i tested it in random.txt
+(worst situation) and sorted.txt (best situation) i realized that it has 6sec as omega and comapre to it
+BigO it was OMEGA(n).
+
+sort2 uses: Merge sort
+
+How do you know?: so i knew that in reversed.txt; Merge sort should be faster than Selection sort so i tested
+sort2 and sort3 and i saw that sort2 takes 4sec but sort3 takes 7sec. as i said sort2 is faster then sort2
+is Merge sort
+
+sort3 uses: Selection sort
+
+How do you know?: so i knew that in reversed.txt; Selection sort should be slower than Merge sort so i tested
+sort2 and sort3 and i saw that sort2 takes 4sec but sort3 takes 7sec. as i said sort3 is slower then sort3
+is Selection sort
